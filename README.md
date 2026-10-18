@@ -154,9 +154,7 @@ An AI-based application concept for analyzing video content and helping users un
 
 ---
 
-<p align="center">
-  <img src="https://view-counter-livid.vercel.app/api?username=shekharray24" alt="Profile Views" />
-</p>
+![Profile Views](https://hits.sh/github.com/shekharray24.svg?style=for-the-badge&label=Profile%20Views&color=38bdf8)
 
 <p align="center">
   <i>"Build. Learn. Improve. Repeat."</i>

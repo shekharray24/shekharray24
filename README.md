@@ -127,8 +127,8 @@ An AI-based application concept for analyzing video content and helping users un
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shekharray24&theme=tokyo-night&hide_border=true&area=true"
-    alt="Contribution Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shekharray24&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffffff&area=true&hide_border=true"
+    alt="GitHub Contribution Graph"
     width="100%"
   />
 </p>

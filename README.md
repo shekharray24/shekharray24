@@ -153,9 +153,11 @@ An AI-based application concept for analyzing video content and helping users un
 💬 Open to discussing development, AI projects, open source, and collaboration opportunities.
 
 ---
-
-![Profile Views](https://hits.sh/github.com/shekharray24.svg?style=for-the-badge&label=Profile%20Views&color=38bdf8)
+<p align="center">
+  ![Profile Views](https://hits.sh/github.com/shekharray24.svg?style=for-the-badge&label=Profile%20Views&color=38bdf8)
+</p>
 
 <p align="center">
   <i>"Build. Learn. Improve. Repeat."</i>
 </p>
+---

@@ -126,11 +126,15 @@ An AI-based application concept for analyzing video content and helping users un
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shekharray24&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Contribution Graph"
-    width="100%"
-  />
+  <a href="https://github.com/shekharray24">
+    <img src="https://github.com/shekharray24.png" width="100" alt="Shekhar Ray's GitHub avatar" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shekharray24?tab=overview">
+    <img src="https://img.shields.io/badge/View-My_GitHub_Contributions-181717?style=for-the-badge&logo=github" alt="View GitHub Contributions" />
+  </a>
 </p>
 
 ---
@@ -151,7 +155,7 @@ An AI-based application concept for analyzing video content and helping users un
 ---
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=shekharray24&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shekharray24&style=for-the-badge&color=38BDF8" alt="Profile Views" />
 </p>
 
 <p align="center">

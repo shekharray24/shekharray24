@@ -155,7 +155,7 @@ An AI-based application concept for analyzing video content and helping users un
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shekharray24&style=for-the-badge&color=38BDF8" alt="Profile Views" />
+  <img src="https://view-counter-livid.vercel.app/api?username=shekharray24" alt="Profile Views" />
 </p>
 
 <p align="center">
